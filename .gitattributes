@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+/// if the dishes are to brought to the dish washer 
+/// then place dishes into dish washer and turn it on 
+///else take dishes to sink and wash dishes 
+/// put dishes away 
+///end  
